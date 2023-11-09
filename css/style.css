@@ -5,9 +5,21 @@
     padding: 10px;
 }
 
-.ms_text {}
-
-
 .j_box {
-    background-color: ;
+    height: 400px;
+    padding: 20px;
+    background-color: #1bbc9d;
+}
+
+.profile {
+    background-color: red;
+    height: 350px;
+}
+
+.portfolio_box {
+    background-color: white;
+}
+
+.rounded {
+    border-radius: 20px;
 }
