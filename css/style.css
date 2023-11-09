@@ -1,3 +1,7 @@
+* {
+    margin: 0 auto;
+}
+
 .h_box {
     background-color: #2d3f50;
     color: white;
@@ -18,8 +22,11 @@
 
 .portfolio_box {
     background-color: white;
+    padding: 20px;
 }
 
-.rounded {
-    border-radius: 20px;
+.about_box {
+    background-color: #1bbc9d;
+    color: white;
+    padding: 20px;
 }
