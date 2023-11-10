@@ -37,3 +37,17 @@
     color: white;
     padding: 20px;
 }
+
+.contact_box {
+    background-color: white;
+    color: #2d3f50;
+    padding: 20px;
+}
+
+.btn_send {
+    background-color: #1bbc9d;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 5px 10px;
+}
